@@ -1,0 +1,1 @@
+SELECT count(car_name) FROM mpg WHERE horsepower > 160 AND cylinders = 8;

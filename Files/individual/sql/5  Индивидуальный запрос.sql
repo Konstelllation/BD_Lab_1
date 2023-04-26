@@ -1,0 +1,1 @@
+SELECT car_name, acceleration, mpg FROM mpg WHERE mpg < 20 AND acceleration < 12;

@@ -1,0 +1,1 @@
+SELECT car_name, model_year FROM mpg WHERE model_year BETWEEN 74 AND 76;

@@ -1,0 +1,1 @@
+SELECT avg(weight) AS AverageWeight FROM mpg WHERE model_year = 70;
